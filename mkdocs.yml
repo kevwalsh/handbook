@@ -1,5 +1,4 @@
 site_name: CivicActions Employees Handbook
 repo_url: https://github.com/CivicActions/Handbook
 site_description: A Handbook for CivicActions Employees
-site_favicon: favicon.ico
 theme: mkdocs
